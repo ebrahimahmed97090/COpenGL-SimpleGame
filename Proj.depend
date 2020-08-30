@@ -1,5 +1,10 @@
 # depslib dependency file v1.0
-1597758719 source:c:\users\ebrahim\desktop\college\computer graphics\ggg\proj\main.c
+1597782947 source:c:\users\ebrahim\desktop\college\computer graphics\ggg\proj\main.c
+	<windows.h>
+	<gl/gl.h>
+	<stdlib.h>
+
+1598565887 source:d:\proj\main.c
 	<windows.h>
 	<gl/gl.h>
 	<stdlib.h>
